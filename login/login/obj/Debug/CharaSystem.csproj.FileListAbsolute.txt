@@ -1,0 +1,13 @@
+C:\2курс2сем\КСИС\Курсовой проект\login\login\obj\Debug\login.classchoose.resources
+C:\2курс2сем\КСИС\Курсовой проект\login\login\obj\Debug\login.Authorized.resources
+C:\2курс2сем\КСИС\Курсовой проект\login\login\obj\Debug\login.Main.resources
+C:\2курс2сем\КСИС\Курсовой проект\login\login\obj\Debug\login.AddPerson.resources
+C:\2курс2сем\КСИС\Курсовой проект\login\login\obj\Debug\login.Properties.Resources.resources
+C:\2курс2сем\КСИС\Курсовой проект\login\login\obj\Debug\login.registration.resources
+C:\2курс2сем\КСИС\Курсовой проект\login\login\obj\Debug\CharaSystem.csproj.GenerateResource.Cache
+C:\2курс2сем\КСИС\Курсовой проект\login\login\obj\Debug\CharaSystem.csproj.CoreCompileInputs.cache
+C:\2курс2сем\КСИС\Курсовой проект\login\login\bin\Debug\CharaSystem.exe.config
+C:\2курс2сем\КСИС\Курсовой проект\login\login\bin\Debug\CharaSystem.exe
+C:\2курс2сем\КСИС\Курсовой проект\login\login\bin\Debug\CharaSystem.pdb
+C:\2курс2сем\КСИС\Курсовой проект\login\login\obj\Debug\CharaSystem.exe
+C:\2курс2сем\КСИС\Курсовой проект\login\login\obj\Debug\CharaSystem.pdb
